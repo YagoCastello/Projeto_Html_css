@@ -6,8 +6,9 @@
     left: 0;
     right: 0;
     width: 100%;
-    border-bottom: 0.1rem solid var(--light-gray-color);
     z-index: 1;
+    border-bottom: 0.1rem solid var(--light-gray-color);
+    
 }
 .menu-content{
     display: flex;
@@ -33,7 +34,6 @@
     display: block;
     padding: 2rem;
     font-size: 1.8rem;
-    font-family: 'Montserrat', sans-serif;
     color: var(--primary-color);
     position: relative;
 }
